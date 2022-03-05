@@ -1,6 +1,7 @@
-# Título del Proyecto
+# PROYECTO111
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Acá va un párrafo que describa lo que es el proyecto_ 
+"En este proyecto se expondrá temas que son de mi relevancia."
 
 ## Comenzando 🚀
 

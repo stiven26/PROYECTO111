@@ -9,3 +9,33 @@ footer {
     border-color: black;
     background-color: aqua;
 }
+#astromía {
+    border-style: solid;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: blueviolet;
+    text-align: justify;
+}
+
+#nebulosa {
+    border-style: solid;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: chartreuse;
+    text-align: justify
+}
+#blackhole {
+    border-style: solid;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: orangered;
+    text-align: justify
+}
+
+#titastro {
+    /* background: -webkit-linear-gradient(rgb(0, 231, 77), rgb(87, 143, 207));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; */
+    text-align: center;
+    color: palevioletred;
+}
